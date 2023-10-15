@@ -1,6 +1,6 @@
 This is a practice repository for an imaginary game
 
-Game Name: WonderWorld
+Game Name: WorldOfWonders
 
 Genre: Cards
 
