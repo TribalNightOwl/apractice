@@ -5,3 +5,5 @@ Game Name: WonderWorld
 Genre: Cards
 
 Studio: WonderStudios
+
+High speed card action
