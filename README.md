@@ -6,4 +6,4 @@ Genre: Cards
 
 Studio: WonderStudios
 
-High speed card action featuring celebrity actors AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+High speed card action featuring celebrity actors
